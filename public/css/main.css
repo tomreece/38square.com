@@ -3,7 +3,19 @@ body {
     color: #f7941d;
 }
 
-a, a:visited, a:hover {
+a:link {
+    color: #f7941d;
+}
+
+a:visited {
+    color: #f7941d;
+}
+
+a:hover {
+    color: #f7941d;
+}
+
+a:active {
     color: #f7941d;
 }
 
