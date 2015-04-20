@@ -1,0 +1,17 @@
+body {
+    background-color: #222222;
+    color: #f7941d;
+}
+
+a, a:visited, a:hover {
+    color: #f7941d;
+}
+
+.logo {
+    width: 350px;
+    height: 500px;
+}
+
+.coming-soon {
+    text-align: center;
+}
